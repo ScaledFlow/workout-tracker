@@ -1,3 +1,5 @@
+console.log("api.js");
+
 const API = {
   async getLastWorkout() {
     let res;

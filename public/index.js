@@ -1,3 +1,5 @@
+console.log("public index.js");
+
 init();
 
 async function init() {
